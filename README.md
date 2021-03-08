@@ -5,10 +5,7 @@ The _Levenshtein distance_ between  two  words ``x`` and ``y``, denoted by ``dL(
 
 The _l distance_ between two words ``x`` and ``y`` of the same length, denoted by ``dl(x,y)``, is one half the Levenshtein distance, i.e.,``dl(x,y) =dL(x,y)/2``.
 
-The radius-_r_ _l_-ball of a length-``n`` word x is the set ``Bl(x;r){ y| dl(x,y)<=r}``.
-``
-with a given string length-``n``, calculating the maximal size of intersection between two ``l``-balls with radius 1, is denoted by ``x`` and ``y`` which _dl(x,y)=1_
+The radius-_r_ _l_-ball of a length-_n_ word x is the set ``Bl(x;r){ y| dl(x,y)<=r}``.
 
-```
-_dL(x,y)_
-```
+with a given string length-_n_, calculating the maximal size of intersection between two _l_-balls with radius 1, is denoted by ``x`` and ``y`` which dl(x,y)=1.
+

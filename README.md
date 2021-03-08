@@ -3,7 +3,7 @@
 
 The _Levenshtein distance_ between  two  words ``x`` and ``y``, denoted by ``dL(x,y)``, is the minimum number of insertions and deletions to convert ``x`` to ``y``.
 
-The _l distance_ between two words ``x`` and ``y`` of the same length, denoted by ``dl(x,y)``, is one half the Levenshtein distance, i.e.,``dl(x,y) =dL(x,y)/2``.
+The _l distance_ between two words ``x`` and ``y`` of the same length, denoted by ``dl(x,y)``, is one half the Levenshtein distance, i.e., ``dl(x,y)=dL(x,y)/2``.
 
 The radius-_r_ _l_-ball of a length-_n_ word x is the set ``Bl(x;r){ y| dl(x,y)<=r}``.
 

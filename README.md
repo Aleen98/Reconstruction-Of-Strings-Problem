@@ -7,5 +7,5 @@ The _l distance_ between two words ``x`` and ``y`` of the same length, denoted b
 
 The radius-_r_ _l_-ball of a length-_n_ word ``x`` is the set ``Bl(x;r){ y|  y is binary string of length n and dl(x,y)<=r}``.
 
-with a given string length-_n_, calculating the maximal size of intersection between two _l_-balls of two different string with radius 1, i.e. ``x≠y`` is ``max|Bl(x;1)∩Bl(y;1)|`` is denoted by ``x`` and ``y`` which ``dl(x,y)=1``.
+with a given string length-_n_, calculating the maximal size of intersection between two _l_-balls of two different string with radius 1, i.e. ``x≠y`` is ``max|Bl(x;1)∩Bl(y;1)|``, is denoted by ``x`` and ``y`` which ``dl(x,y)=1``.
 

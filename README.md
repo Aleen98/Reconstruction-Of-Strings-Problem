@@ -1,4 +1,4 @@
-# The Reconstruction Problem: 
+# Reconstruction Of Strings Problem: 
 ## maximal size of intersection between two _l_-balls with radius 1
 
 The _Levenshtein distance_ between  two  words _x_ and _y_, denoted by _dL(x,y)_, is the minimum number of insertions and deletions to convert _x_ to _y_.

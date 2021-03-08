@@ -17,8 +17,5 @@ Any C++11 environment.
 go get github.com/Aleen98/Reconstruction-Of-Strings-Problem 
 ```
 
-
-### Usage and Examples
-
 ## Running the tests 
 The test will be run using C++11, that is installed on setup.

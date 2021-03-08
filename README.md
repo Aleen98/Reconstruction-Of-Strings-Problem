@@ -1,9 +1,13 @@
 # Reconstruction Of Strings Problem: 
 ## maximal size of intersection between two _l_-balls with radius 1
 
-The _Levenshtein distance_ between  two  words _x_ and _y_, denoted by _dL(x,y)_, is the minimum number of insertions and deletions to convert _x_ to _y_.
-The _l distance_ between two words _x_ and _y_ of the same length, denoted by _dl(x,y)_, is one half the Levenshtein distance, i.e.,_dl(x,y) =dL(x,y)/2_.
+The _Levenshtein distance_ between  two  words ``x`` and ``y``, denoted by ``dL(x,y)``, is the minimum number of insertions and deletions to convert ``x`` to ``y``.
+The _l distance_ between two words ``x`` and ``y`` of the same length, denoted by ``dl(x,y)``, is one half the Levenshtein distance, i.e.,``dl(x,y) =dL(x,y)/2``.
 
-The radius-_r_ _l_-ball of a length-_n_ word x is the set *Bl(x;r){ y| dl(x,y)<=r}*.
+The radius-``r`` ``l``-ball of a length-``n`` word x is the set ``Bl(x;r){ y| dl(x,y)<=r}``.
+``
+with a given string length-``n``, calculating the maximal size of intersection between two ``l``-balls with radius ``1``, is denoted by ``x`` and ``y`` which _dl(x,y)=1_
 
-with a given string length-_n_, calculating the maximal size of intersection between two _l_-balls with radius _1_, is denoted by _x_ and _y_ which _dl(x,y)=1_
+```
+_dL(x,y)_
+```

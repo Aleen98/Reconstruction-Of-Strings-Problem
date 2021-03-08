@@ -1,5 +1,5 @@
 # The Reconstruction Problem: 
-## maximal size of intersection between two l-balls with radius 1
+## maximal size of intersection between two _l_-balls with radius 1
 
 The Levenshtein distance between  two  words x and y, denoted by _dL(x,y)_
 , is the minimum number of insertions and deletions to convert _x_ to _y_.

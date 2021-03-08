@@ -13,3 +13,6 @@ with a given string length-_n_, calculating the maximal size of intersection bet
 Any C++11 environment.
 
 ### Usage and Examples
+
+## Running the tests 
+The test will be run using C++11, that is installed on setup.

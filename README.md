@@ -12,6 +12,12 @@ with a given string length-_n_, calculating the maximal size of intersection bet
 ### Prerequisites
 Any C++11 environment.
 
+### Installing
+```
+go get github.com/Aleen98/Reconstruction-Of-Strings-Problem 
+```
+
+
 ### Usage and Examples
 
 ## Running the tests 
